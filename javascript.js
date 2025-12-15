@@ -3,7 +3,7 @@
 function kvadarat(x) {
   return x * x;
 }
-console.log(x);
+console.log(8);
 
 function videjais(x, y) {
   return (x + y) / 2;
@@ -23,7 +23,7 @@ function lielakais(x,y) {
   console.log(5,2);
   
 
-function pi(a) {
+function pi() {
   return a = 3.14159265359;
 }
-console.log(a);
+console.log();
