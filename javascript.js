@@ -1,15 +1,15 @@
 
 
-function kvadarat(x) {
+function kvadrata(x) {
   return x * x;
 }
-console.log(8);
+console.log(kvadrata(7));
 
 function videjais(x, y) {
   return (x + y) / 2;
 }
 
-console.log(5,5);
+console.log(videjais(5,5));
 function lielakais(x,y) {
   if(x > y){
     return x;
@@ -20,10 +20,10 @@ function lielakais(x,y) {
   }
 
   }
-  console.log(5,2);
+  console.log(lielakais(5,2));
   
 
 function pi() {
   return a = 3.14159265359;
 }
-console.log();
+console.log(pi());
