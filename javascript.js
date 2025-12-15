@@ -18,3 +18,7 @@ function lielakais(x,y) {
   console.log(5,2);
   
 
+function pi(a) {
+  return a = 3.14159265359;
+}
+console.log(a);
