@@ -5,6 +5,11 @@ function kvadarat(x) {
 }
 console.log(x);
 
+function videjais(x, y) {
+  return (x + y) / 2;
+}
+
+console.log(5,5);
 function lielakais(x,y) {
   if(x > y){
     return x;
